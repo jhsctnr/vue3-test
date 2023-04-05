@@ -243,7 +243,9 @@ export default defineConfig({
 npm run build
 ```
 
-outDir에 입력된 경로에 빌드한다.
+#### outDir
+
+입력된 경로에 빌드한다.
 
 ### local dev 
 
