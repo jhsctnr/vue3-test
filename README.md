@@ -44,21 +44,40 @@ npm run lint
 5. [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 [Vue.js 3 한글 가이드](https://v3-docs.vuejs-korea.org/guide/quick-start.html#creating-a-vue-application): 시작 방법, 예제 코드, Demo까지 실습해 볼 수 있다.
+
 [Vue.js + ES6](https://joshua1988.github.io/es6-online-book/): vue 개발할 때, 많이 사용하는 es6 문법
+
 [Cracking Vue.js](https://joshua1988.github.io/vue-camp/): vue 개발 팁
+
 [Vue Router](https://v3.router.vuejs.org/kr/): vue router 핸드북
+
 [Vuex](https://vuex.vuejs.org/): vuex 핸드북
+
 [Pinia](https://pinia.vuejs.kr/): vuex5 버전과 거의 같은 상태관리 라이브러리 Pinia 사이트
+
 [Vue CLI](https://cli.vuejs.org/): vue cli 핸드북
+
 [타입스크립트 핸드북](https://joshua1988.github.io/ts/)
+
 [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
+
 [Vue 테스팅 핸드북](https://lmiller1990.github.io/vue-testing-handbook/ko/)
-## vue3 create with vite
+
+### vue3 create with vite
+
 ```sh
 npm init vue@latest
 ```
 
-vue3 
+vue + vite 생성
+
+### vue3 create with webpack
+
+```sh
+vue create '프로젝트 명'
+```
+
+vue + webpack 생성
 
 ## 개발에 도움 되는 설정
 
@@ -139,12 +158,39 @@ css를 더 직관적인 문법으로 작성할 수 있게 도와준다.
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "format": "prettier --write src/"
   },
+  
+  
+  "dependencies": {
+    "pinia": "^2.0.32",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue-jsx": "^3.0.0",
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "eslint": "^8.34.0",
+    "eslint-plugin-vue": "^9.9.0",
+    "prettier": "^2.8.4",
+    "vite": "^4.1.4"
+  }
 ```
 
 #### --watch
+
 파일 변경 시 자동 빌드
 
+#### "dependencies"
+
+빌드에 포함되는 의존 라이브러리
+
+#### "devDependencies"
+
+빌드에 포함되지 않는 라이브러리, 빌드와 개발에 도움을 주는 의존 라이브러리
+
 ### vite.config.js
+
 ```sh
 import { fileURLToPath, URL } from 'node:url';
 
