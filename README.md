@@ -61,6 +61,20 @@ npm run lint
 
 [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 
+[vue, spring boot 연동, webpack](https://doozi0316.tistory.com/entry/Vuejs-Spring-Boot-MySQL-MyBatis-%EB%A7%9B%EC%A7%91-%EC%A7%80%EB%8F%84-%EB%A7%8C%EB%93%A4%EA%B8%B01-Spring-Boot-Vuejs-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+
+[vue, spring boot 연동2, webpack](https://velog.io/@blessole/Vue.js-Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%B0%EB%8F%99-%EB%B6%84%EB%A6%AC%EB%90%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+
+[NginX, Tomcat 연동](https://haengsin.tistory.com/114?category=900169)
+
+[Vite](https://vitejs-kr.github.io/): vite 문서
+
+[vite 호스트와 포트 설정하기](https://osg.kr/archives/648)
+
+[vue, spring boot 연동](https://velog.io/@wooryung/Spring-Boot%EC%99%80-Vue.js-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+
+[vue, spring boot 연동2](https://nyximos.tistory.com/112)
+
 [Vue 테스팅 핸드북](https://lmiller1990.github.io/vue-testing-handbook/ko/)
 
 ### vue3 create with vite
