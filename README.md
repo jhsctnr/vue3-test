@@ -43,6 +43,8 @@ npm run lint
 4. [Vue.js Devtools](https://chrome.google.com/webstore/search/vue.js%20devtools)
 5. [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
+### 참고한 사이트
+
 [Vue.js 3 한글 가이드](https://v3-docs.vuejs-korea.org/guide/quick-start.html#creating-a-vue-application): 시작 방법, 예제 코드, Demo까지 실습해 볼 수 있다.
 
 [Vue.js + ES6](https://joshua1988.github.io/es6-online-book/): vue 개발할 때, 많이 사용하는 es6 문법
