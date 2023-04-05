@@ -35,7 +35,7 @@ npm run lint
 ```
 
 
-## setting
+## Setting
 
 1. [Chrome](https://www.google.com/intl/ko_kr/chrome/)
 2. [Visual studio code](https://code.visualstudio.com/download)
