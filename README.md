@@ -61,6 +61,8 @@ npm run lint
 
 [타입스크립트 핸드북](https://joshua1988.github.io/ts/)
 
+[NginX, Tomcat 연동](https://haengsin.tistory.com/114?category=900169)
+
 [Webpack vs vite](https://hmk1022.tistory.com/m/entry/webpack%EA%B3%BC-vite)
 
 [Webpack vs vite2](https://velog.io/@eamon3481/Vite-%EB%8A%94-Webpack%EC%9D%84-%EB%8C%80%EC%B2%B4-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C)
@@ -71,15 +73,13 @@ npm run lint
 
 [vue, spring boot 연동2, webpack](https://velog.io/@blessole/Vue.js-Spring-Boot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%B0%EB%8F%99-%EB%B6%84%EB%A6%AC%EB%90%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
-[NginX, Tomcat 연동](https://haengsin.tistory.com/114?category=900169)
-
 [Vite](https://vitejs-kr.github.io/): vite 문서
 
 [vite 호스트와 포트 설정하기](https://osg.kr/archives/648)
 
-[vue, spring boot 연동](https://velog.io/@wooryung/Spring-Boot%EC%99%80-Vue.js-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+[vue, spring boot 연동, vite](https://velog.io/@wooryung/Spring-Boot%EC%99%80-Vue.js-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
 
-[vue, spring boot 연동2](https://nyximos.tistory.com/112)
+[vue, spring boot 연동2, vite](https://nyximos.tistory.com/112)
 
 [Vue 테스팅 핸드북](https://lmiller1990.github.io/vue-testing-handbook/ko/)
 
