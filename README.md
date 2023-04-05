@@ -61,6 +61,10 @@ npm run lint
 
 [타입스크립트 핸드북](https://joshua1988.github.io/ts/)
 
+[Webpack vs vite](https://hmk1022.tistory.com/m/entry/webpack%EA%B3%BC-vite)
+
+[Webpack vs vite2](https://velog.io/@eamon3481/Vite-%EB%8A%94-Webpack%EC%9D%84-%EB%8C%80%EC%B2%B4-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C)
+
 [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 
 [vue, spring boot 연동, webpack](https://doozi0316.tistory.com/entry/Vuejs-Spring-Boot-MySQL-MyBatis-%EB%A7%9B%EC%A7%91-%EC%A7%80%EB%8F%84-%EB%A7%8C%EB%93%A4%EA%B8%B01-Spring-Boot-Vuejs-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
