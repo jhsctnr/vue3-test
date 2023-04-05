@@ -235,4 +235,3 @@ npm run dev
 cors 해결하는 방법 중 하나.
 
 
-asdsadadas
